@@ -1,14 +1,11 @@
+![sdf](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
 ### Hi there 👋 =^.^=
 
 <code>🎓 Student: KPI / ІК-91</code>
 <code>👷 Speciality: Software engineer / Backend, Frontend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@sbarabas](https://telegram.me/sbarabas)</code>
 <code>📫 [sbarabas176@gmail.com](mailto:sbarabas176@gmail.com)</code>
 
